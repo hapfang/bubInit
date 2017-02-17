@@ -1,0 +1,16 @@
+!The Geometry Type (Sub or 2x2)
+Sub
+!NUMBER OF BUBBLES
+262
+!BUBBLE RADIUS
+0.0003254634
+!BOX DIMENSIONS (streamwise range, and cross section range of a single subchannel)
+-0.02025, 0.02025, -0.0063, 0.0063, -0.0063, 0.0063
+!The range of mixing vanes region (put 0.0 0.0 otherwise)
+0.0 0.0
+!Radius of fuel rods
+0.00457
+!MINIMUM ALLOWABLE DISTANCE BETWEEN BUBBLES (in the unit of bubble radii)
+4.0
+!GHOST BUBBLES REGION (SPECIFY THE DISTANCE TO THE WALLS IN **%)
+10.0	!%
